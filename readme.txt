@@ -8,4 +8,8 @@ There is but one rule: Hunt and be hunted.
 There is but one rule: Hunt and be hunted.
 >>>>>>> dev
 do not let it go.
-shoot2.
+<<<<<<< HEAD
+shoot1.
+=======
+shoot1.
+>>>>>>> d29fd09bad9425b362cf36f7e3635c9b8f56a2aa
