@@ -7,9 +7,13 @@ There is but one rule: Hunt and be hunted.
 =======
 There is but one rule: Hunt and be hunted.
 >>>>>>> dev
+<<<<<<< HEAD
 do not let it go.
 <<<<<<< HEAD
 shoot1.
 =======
 shoot1.
 >>>>>>> d29fd09bad9425b362cf36f7e3635c9b8f56a2aa
+=======
+do not let it go.
+>>>>>>> dev
